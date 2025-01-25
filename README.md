@@ -5,5 +5,5 @@ Aplicativo SPA(Single Page Application), realizado no Explorer, que permite busc
     
 ## 🔗 Link do Projeto
 ### Clique na imagem abaixo para abrir o projeto!
-[![page](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSModCKusy7bToHrB2oGB8YDPmshPYKkVcrZw&usqp=CAU)](https://carloslonghi.github.io/Github-Favorites-API/)
+[![page](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSModCKusy7bToHrB2oGB8YDPmshPYKkVcrZw&usqp=CAU)](https://carloslonghi.github.io/Github-Favorites-App/)
 
